@@ -4,9 +4,9 @@ Initial Function()
 {
   //Sample Code
 }
-Feature 1 securiy patch()
+Feature 2 Security patch()
 {
- //Sample Code for feature 1 security patch
+ //Sample Code for feature 2 security patch
 }
 
 
